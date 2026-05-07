@@ -1,5 +1,4 @@
-import { AuditInput, AuditResult } from "@/types/audit";
-
+import { AuditInput, AuditResult } from "@/src/types/audit";
 export function generateAudit(
     input: AuditInput
 ): AuditResult {

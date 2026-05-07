@@ -11,6 +11,7 @@
 * Created centralized pricing configuration files to avoid hardcoding values inside recommendation logic
 * Started planning the audit engine structure and recommendation flow
 * Began collecting official pricing sources for supported AI tools
+* Created a landing page for the application.
 
 **What I learned:**
 
